@@ -44,7 +44,7 @@ h2 {
 
 figure {
 	display: grid;
-	grid-template-columns: 80% 20%;
+	grid-template-columns: 4fr 1fr;
 }
 
 img {
