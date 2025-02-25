@@ -62,7 +62,7 @@ a {
 }
 
 nav ul {
-	text-align: end;
+	text-align: right;
 }
 
 ul li {
@@ -111,7 +111,7 @@ p.price {
 	grid-column: 2/3;
 	color: rgb(255, 0, 0);
 	font-family: sans-serif;
-	text-align: end;
+	text-align: right;
 	margin: 0;
 }
 
